@@ -1,2 +1,2 @@
-# cv
-This is my resume
+# Profile
+This is my profile
